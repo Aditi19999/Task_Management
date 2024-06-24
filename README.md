@@ -50,4 +50,4 @@ npm start
 ![image](https://github.com/Aditi19999/Task-management/blob/main/frontend/public/img/Screenshot%202024-05-18%20033428.png)
 ---
 ![image](https://github.com/Aditi19999/Task-management/blob/main/frontend/public/img/Screenshot%202024-05-18%20033504.png)
----
+
