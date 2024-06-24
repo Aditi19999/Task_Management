@@ -39,7 +39,7 @@ npm start
 4. Now you will be able to see your Task dashboard.
 
 
-![image-url](https://github.com/Aditi19999/Task-management/blob/main/frontend/public/C:\Users\ADITI AGARWAL\Desktop\photo1.png)
+![image-url](https://github.com/Aditi19999/Task-management\C:\Users\ADITI AGARWAL\Desktop\photo1.png)
 ---
 ![image](https://github.com/Aditi19999/Task-management/blob/main/frontend/public/img/Screenshot%202024-05-18%20033243.png)
 ---
